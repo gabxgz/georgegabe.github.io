@@ -1,0 +1,66 @@
+export const skills = {
+  javascript:[
+    "JavaScript",
+    "Node",
+    "NPM",
+    "Express",
+    "CoffeeScript",
+    "Backbone",
+    "AngularJS",
+    "CanJS",
+    "jQuery",
+    "jQueryUI",
+  ],
+  html: [
+    "HTML5",
+    "Mustache",
+    "Handlebars",
+    "JSP",
+  ],
+  css: [
+    "CSS3",
+    "Stylus",
+    "Sass",
+  ],
+  testing: [
+    "Jasmine",
+    "Mocha",
+    "Chai",
+    "Karma",
+    "JUnit",
+    "Mockito",
+  ],
+  versionControl: [
+    "Git",
+    "SVN",
+  ],
+  build: [
+    "Grunt",
+    "Gulp",
+    "Make",
+    "Bower",
+  ],
+  database: [
+    "MySQL",
+    "MongoDB",
+  ],
+  IDE: [
+    "Sublime Text",
+    "Eclipse",
+    "IntelliJ",
+    "Unity",
+    "Xcode",
+  ],
+  otherLanguages: [
+    "C#",
+    "Java",
+    "Python",
+    "AppleScript",
+    "PHP",
+    "Unix/Bash",
+  ],
+  otherSoftware: [
+    "Adobe CS3+",
+    "Blender",
+  ],
+};
